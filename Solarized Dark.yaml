@@ -22,12 +22,12 @@ log-view:
   scroller-highlight-color: '#e28964'
 input-text:
   font-family: 'Menlo'
-  font-size: 13.0
+  font-size: 11.0
   background-color: '#002b36' # base02
   color: '#93a1a1'            # base1
 member-list:
   font-family: 'Menlo'
-  font-size: 13.0
+  font-size: 10.0
   color: '#93a1a1' # base1
   background-color: '#002b36' # base02
   operator:
@@ -41,7 +41,7 @@ member-list:
       bottom-color: '#268bd2'      # base00
 server-tree:
   font-family: 'Menlo'
-  font-size: 13.0
+  font-size: 10.0
   background-color: '#002b36' # base02
   highlight:
     color: '#dc322f' # red
